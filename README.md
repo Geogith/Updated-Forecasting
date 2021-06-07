@@ -10,9 +10,7 @@ Linear regressions for each relationship were created separating them in Norther
 
 ![image](https://user-images.githubusercontent.com/67766966/120945570-28e52c80-c6ff-11eb-93f7-3187a862fa12.png)
 
-These relationships were used to select ideal weather conditions for vacation planning. A weather check on these 500 cities using a series of successive API calls were used to retrieve and document the weather. This document could be used when considering future vacations in these cities.
-
-To accomplish this analysis, citipy (a simple Python library), and several API 
+These relationships were used to select ideal weather conditions for vacation planning. 
 
 
      Results
