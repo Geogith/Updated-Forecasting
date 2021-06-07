@@ -19,6 +19,8 @@ ________________________________________________________________________________
 
 # VACATION PLANNING USING WEATHER FORECASTING
 
+Juptyer-gmaps and Google Places API was used for planning future vacations across the globe.
+
 
 
    
