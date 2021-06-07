@@ -20,14 +20,6 @@ ________________________________________________________________________________
 
 # VACATION PLANNING USING WEATHER FORECASTING
 
-Juptyer-gmaps and Google Places API was used for planning future vacations across the globe.
+Juptyer-gmaps and Google Places API was used for planning future vacations across the globe. A heat map of the humidity for the 550 cities selected above was created. The Pandas DataFrame was narrowed down to include only data for ideal weather conditions of a maximum temperature lower than 80 degrees but higher than 70. Wind speed less than 10 mph with zero cloudiness. Any rows that didn't contain all three conditions were dropped for the DataFrame. Google Places API located hotel within 5000 meters of selected coordinates. This information was plotted on the humidity heatmap with a pin containing the hotel name, city, and country.
 
 ![image](https://user-images.githubusercontent.com/67766966/120946240-6ea2f480-c701-11eb-9aa0-ccc14d5ff90c.png)
-
-
-
-
-   
-
-
-
