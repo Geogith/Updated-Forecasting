@@ -15,7 +15,7 @@ The table below shows 20 of the 550 cities randomly selected for a weather check
 
 ![image](https://user-images.githubusercontent.com/67766966/120945680-96915880-c6ff-11eb-83aa-41e089c469ab.png)
 
-These relationships were used to select ideal weather conditions for vacation planning. 
+These relationships were used to assist in the selection of ideal weather conditions for vacation planning. 
 __________________________________________________________________________________________________________________________________________________________________________
 
 # VACATION PLANNING USING WEATHER FORECASTING
