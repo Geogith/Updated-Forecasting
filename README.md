@@ -21,6 +21,9 @@ ________________________________________________________________________________
 
 Juptyer-gmaps and Google Places API was used for planning future vacations across the globe.
 
+![image](https://user-images.githubusercontent.com/67766966/120946240-6ea2f480-c701-11eb-9aa0-ccc14d5ff90c.png)
+
+
 
 
    
