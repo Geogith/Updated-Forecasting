@@ -13,9 +13,12 @@ Linear regressions for each relationship were created separating them in Norther
 The table below shows 20 of the 550 cities randomly selected for a weather check:
 
 ![image](https://user-images.githubusercontent.com/67766966/120945680-96915880-c6ff-11eb-83aa-41e089c469ab.png)
-___________________________________________________________________________________________________________________________________________________________________________
 
 These relationships were used to select ideal weather conditions for vacation planning. 
+__________________________________________________________________________________________________________________________________________________________________________
+
+# VACATION PLANNING USING WEATHER FORECASTING
+
 
 
    
