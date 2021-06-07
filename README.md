@@ -10,6 +10,8 @@ Linear regressions for each relationship were created separating them in Norther
 
 ![image](https://user-images.githubusercontent.com/67766966/120945570-28e52c80-c6ff-11eb-93f7-3187a862fa12.png)
 
+The table below shows 20 of the 550 cities randomly selected for a weather check:
+
 ![image](https://user-images.githubusercontent.com/67766966/120945680-96915880-c6ff-11eb-83aa-41e089c469ab.png)
 
 
